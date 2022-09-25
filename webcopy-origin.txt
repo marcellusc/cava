@@ -1,0 +1,976 @@
+Uri: https://cavoodleranch.com/
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\index.htm
+Content Type: text/html
+
+Uri: https://cavoodleranch.com/cavapoo-puppies/
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\cavapoo-puppies\index.htm
+Content Type: text/html
+
+Uri: https://cavoodleranch.com/comments/feed/
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://cavoodleranch.com/faq/
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\faq\index.htm
+Content Type: text/html
+
+Uri: https://cavoodleranch.com/feed/
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://cavoodleranch.com/resources/
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\resources\index.htm
+Content Type: text/html
+
+Uri: https://cavoodleranch.com/testimonials/
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\testimonials\index.htm
+Content Type: text/html
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.7.2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.7.2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.7.2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.7.2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.7.2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.16.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.16.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.16.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.16.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.7.2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-content/plugins/ninja-forms/assets/css/display-opinions-light.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\ninja-forms\assets\css\display-opinions-light.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/plugins/ninja-forms/assets/css/font-awesome.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\ninja-forms\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cavoodleranch.com/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cavoodleranch.com/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cavoodleranch.com/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\ninja-forms\assets\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://cavoodleranch.com/wp-content/plugins/ninja-forms/assets/img/help-info.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\ninja-forms\assets\img\help-info.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/plugins/ninja-forms/assets/js/min/front-end-deps.js?ver=3.6.12
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\ninja-forms\assets\js\min\front-end-deps.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-content/plugins/ninja-forms/assets/js/min/front-end.js?ver=3.6.12
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\ninja-forms\assets\js\min\front-end.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-content/plugins/wp-content-copy-protector/images/warning.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\plugins\wp-content-copy-protector\images\warning.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=2.0.2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\css\third\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\css\third\simple-line-icons.min.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\css\third\slick.min.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff
+Content Type: application/font-woff
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.eot
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\slick\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.eot?
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\slick\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.svg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\slick\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\slick\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.woff
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\fonts\slick\slick.woff
+Content Type: application/font-woff
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/js/main.min.js?ver=2.0.2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\js\main.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=2.0.2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\js\third\lightbox.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=2.0.2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\themes\oceanwp\assets\js\third\magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/80831d105521b963b593907fa2a2d350-150x150.jpeg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\80831d105521b963b593907fa2a2d350-150x150.jpeg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/80831d105521b963b593907fa2a2d350-300x300.jpeg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\80831d105521b963b593907fa2a2d350-300x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/80831d105521b963b593907fa2a2d350.jpeg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\80831d105521b963b593907fa2a2d350.jpeg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.31.45-1024x952.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.31.45-1024x952.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.31.45-300x279.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.31.45-300x279.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.31.45-768x714.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.31.45-768x714.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.31.45.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.31.45.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.32.11-290x300.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.32.11-290x300.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.32.11-768x795.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.32.11-768x795.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.32.11.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.32.11.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.33.10-286x300.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.33.10-286x300.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.33.10-768x806.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.33.10-768x806.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.33.10.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.33.10.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.34.13-1024x801.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.34.13-1024x801.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.34.13-300x235.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.34.13-300x235.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.34.13-768x601.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.34.13-768x601.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.34.13.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.34.13.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.35.15-264x300.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.35.15-264x300.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.35.15-768x871.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.35.15-768x871.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.35.15-902x1024.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.35.15-902x1024.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-20.35.15.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-20.35.15.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.11.40-1024x786.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.11.40-1024x786.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.11.40-300x230.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.11.40-300x230.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.11.40-768x589.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.11.40-768x589.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.11.40.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.11.40.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.13.47-1024x1014.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.13.47-1024x1014.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.13.47-150x150.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.13.47-150x150.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.13.47-300x297.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.13.47-300x297.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.13.47-768x760.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.13.47-768x760.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.13.47.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.13.47.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.14.00-1019x1024.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.14.00-1019x1024.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.14.00-150x150.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.14.00-150x150.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.14.00-298x300.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.14.00-298x300.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.14.00-768x772.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.14.00-768x772.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-05-at-22.14.00.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\01\Screen-Shot-2022-01-05-at-22.14.00.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/04/5b0b5864e9dfec3cb0eec53ce3ac2141-e1650719726617-300x264.jpeg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\04\5b0b5864e9dfec3cb0eec53ce3ac2141-e1650719726617-300x264.jpeg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/04/5c6573_543d2e703d3f419495eb59d52ece42a5_mv2_d_3755_2000_s_2.jpeg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\04\5c6573_543d2e703d3f419495eb59d52ece42a5_mv2_d_3755_2000_s_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/04/Cavalier-King-Charles-Spaniel-standing-in-the-grass-300x200.jpeg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\04\Cavalier-King-Charles-Spaniel-standing-in-the-grass-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/04/cavalier-tri-color-300x200.jpeg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\04\cavalier-tri-color-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/04/D3A98B39-587C-4AAE-A91F-076C1D6C9226-300x190.jpeg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\04\D3A98B39-587C-4AAE-A91F-076C1D6C9226-300x190.jpeg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-20.51.11-248x300.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\04\Screen-Shot-2022-04-22-at-20.51.11-248x300.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-20.51.11-768x929.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\04\Screen-Shot-2022-04-22-at-20.51.11-768x929.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-20.51.11-847x1024.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\04\Screen-Shot-2022-04-22-at-20.51.11-847x1024.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-20.51.11.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\04\Screen-Shot-2022-04-22-at-20.51.11.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-20.54.20-1010x1024.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\04\Screen-Shot-2022-04-22-at-20.54.20-1010x1024.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-20.54.20-296x300.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\04\Screen-Shot-2022-04-22-at-20.54.20-296x300.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-20.54.20-768x779.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\04\Screen-Shot-2022-04-22-at-20.54.20-768x779.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-20.54.20.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\04\Screen-Shot-2022-04-22-at-20.54.20.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/Ann-768x779.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\Ann-768x779.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/Ann3-296x300.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\Ann3-296x300.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/Ann3-768x779.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\Ann3-768x779.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/Babis-291x300.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\Babis-291x300.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/Babis-768x792.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\Babis-768x792.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/Babis3-768x792.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\Babis3-768x792.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/crizy-240x300.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\crizy-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/crizy-768x960.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\crizy-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/crizy2-768x960.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\crizy2-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/cropped-A-New-Design-Made-with-PosterMyWall-34-1-300x104.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\cropped-A-New-Design-Made-with-PosterMyWall-34-1-300x104.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/cropped-A-New-Design-Made-with-PosterMyWall-34-1.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\cropped-A-New-Design-Made-with-PosterMyWall-34-1.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/cropped-A-New-Design-Made-with-PosterMyWall-34-180x180.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\cropped-A-New-Design-Made-with-PosterMyWall-34-180x180.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/cropped-A-New-Design-Made-with-PosterMyWall-34-192x192.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\cropped-A-New-Design-Made-with-PosterMyWall-34-192x192.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/cropped-A-New-Design-Made-with-PosterMyWall-34-32x32.png
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\cropped-A-New-Design-Made-with-PosterMyWall-34-32x32.png
+Content Type: image/png
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/Jay-768x957.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\Jay-768x957.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/Jay2-241x300.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\Jay2-241x300.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/Jay2-768x957.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\Jay2-768x957.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/kuku.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\kuku.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/Lola-768x797.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\Lola-768x797.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/lola2-300x300.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\lola2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/lola2-768x768.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\lola2-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/Mice-242x300.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\Mice-242x300.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/Mice-768x951.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\Mice-768x951.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/Spy-768x960.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\Spy-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/2022/08/spy2-768x960.jpg
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\2022\08\spy2-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://cavoodleranch.com/wp-content/uploads/elementor/css/global.css?ver=1661124469
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/uploads/elementor/css/post-172.css?ver=1661139862
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\elementor\css\post-172.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/uploads/elementor/css/post-196.css?ver=1661127847
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\elementor\css\post-196.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/uploads/elementor/css/post-2.css?ver=1661124599
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\elementor\css\post-2.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/uploads/elementor/css/post-3.css?ver=1661124470
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\elementor\css\post-3.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/uploads/elementor/css/post-31.css?ver=1661124467
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\elementor\css\post-31.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-content/uploads/elementor/css/post-6.css?ver=1661124502
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-includes/css/dashicons.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://cavoodleranch.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cavoodleranch.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cavoodleranch.com/wp-includes/js/backbone.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-includes\js\backbone.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-includes/js/underscore.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-includes\js\underscore.min.js
+Content Type: application/x-javascript
+
+Uri: https://cavoodleranch.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://cavoodleranch.com/wp-json/
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://cavoodleranch.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcavoodleranch.com%2F
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://cavoodleranch.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcavoodleranch.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://cavoodleranch.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcavoodleranch.com%2Fcavapoo-puppies%2F
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://cavoodleranch.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcavoodleranch.com%2Fcavapoo-puppies%2F&format=xml
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://cavoodleranch.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcavoodleranch.com%2Ffaq%2F
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://cavoodleranch.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcavoodleranch.com%2Ffaq%2F&format=xml
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://cavoodleranch.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcavoodleranch.com%2Fresources%2F
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://cavoodleranch.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcavoodleranch.com%2Fresources%2F&format=xml
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://cavoodleranch.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcavoodleranch.com%2Ftestimonials%2F
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://cavoodleranch.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcavoodleranch.com%2Ftestimonials%2F&format=xml
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://cavoodleranch.com/wp-json/wp/v2/pages/172
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\wp\v2\pages\172
+Content Type: application/json
+
+Uri: https://cavoodleranch.com/wp-json/wp/v2/pages/196
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\wp\v2\pages\196
+Content Type: application/json
+
+Uri: https://cavoodleranch.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://cavoodleranch.com/wp-json/wp/v2/pages/3
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\wp\v2\pages\3
+Content Type: application/json
+
+Uri: https://cavoodleranch.com/wp-json/wp/v2/pages/6
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\wp-json\wp\v2\pages\6
+Content Type: application/json
+
+Uri: https://cavoodleranch.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Fjord+One:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&subset=latin&display=swap&ver=6.0.1
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Salsa:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Mono:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Rosario:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Secular+One:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.0.1
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Salsa:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Secular+One:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.0.1
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Tillana:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Secular+One:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Salsa:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Rosario:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.0.1
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/fjordone/v21/zOL-4pbEnKBY_9S1jNKb7uRE.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\fjordone\v21\zOL-4pbEnKBY_9S1jNKb7uRE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrk5ANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrk5ANW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAdW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAdW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnANW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlVANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlVANW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrm5B9W6Cpw.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrm5B9W6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB9W6Cpw.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB9W6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrnnANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrnnANW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vu_ROW9.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vu_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_7Pq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_7Pq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_AP2_ROW9.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_AP2_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2_ROW9.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Xvq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotomono\v22\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Xvq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rosario/v27/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSlF3TeUPOg.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\rosario\v27\xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSlF3TeUPOg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rosario/v27/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSmh3TeUPOg.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\rosario\v27\xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSmh3TeUPOg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rosario/v27/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSo9wTeUPOg.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\rosario\v27\xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSo9wTeUPOg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rosario/v27/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSr1wTeUPOg.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\rosario\v27\xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQSr1wTeUPOg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rosario/v27/xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQStFwTeUPOg.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\rosario\v27\xfug0WDhWW_fOEoY2Fbnww42bCJhNLrQStFwTeUPOg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rosario/v27/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68qCVc0feI.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\rosario\v27\xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68qCVc0feI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rosario/v27/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68YCVc0feI.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\rosario\v27\xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68YCVc0feI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rosario/v27/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM69GCVc0feI.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\rosario\v27\xfuu0WDhWW_fOEoY8l_VPNZfB7jPM69GCVc0feI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rosario/v27/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6_GDlc0feI.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\rosario\v27\xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6_GDlc0feI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rosario/v27/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6__Dlc0feI.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\rosario\v27\xfuu0WDhWW_fOEoY8l_VPNZfB7jPM6__Dlc0feI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/salsa/v17/gNMKW3FiRpKj-hmf-HM.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\salsa\v17\gNMKW3FiRpKj-hmf-HM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/secularone/v11/8QINdiTajsj_87rMuMdKyqDiOO0.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\secularone\v11\8QINdiTajsj_87rMuMdKyqDiOO0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQAb7LI5GYQ.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\tillana\v11\VuJ0dNvf35P4qJ1OQAb7LI5GYQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQBr4LI5GYQ.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\tillana\v11\VuJ0dNvf35P4qJ1OQBr4LI5GYQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQFL-LI5GYQ.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\tillana\v11\VuJ0dNvf35P4qJ1OQFL-LI5GYQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tillana/v11/VuJ0dNvf35P4qJ1OQH75LI5GYQ.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\tillana\v11\VuJ0dNvf35P4qJ1OQH75LI5GYQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tillana/v11/VuJxdNvf35P4qJ1OSKHdPA.ttf
+File Name: C:\Downloaded Web Sites\cavoodleranch.com\s\tillana\v11\VuJxdNvf35P4qJ1OSKHdPA.ttf
+Content Type: font/ttf
+
